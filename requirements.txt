@@ -1,0 +1,12 @@
+stremlit
+pandas
+numpy
+seaborn
+matplotlib
+joblib
+
+
+
+
+
+
